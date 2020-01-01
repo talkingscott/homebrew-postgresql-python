@@ -1,4 +1,4 @@
-class PostgresqlAT96 < Formula
+class PostgresqlPythonAT96 < Formula
   desc "Object-relational database system"
   homepage "https://www.postgresql.org/"
   url "https://ftp.postgresql.org/pub/source/v9.6.16/postgresql-9.6.16.tar.bz2"

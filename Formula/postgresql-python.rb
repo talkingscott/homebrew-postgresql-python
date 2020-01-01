@@ -1,4 +1,4 @@
-class Postgresql < Formula
+class PostgresqlPython < Formula
   desc "Object-relational database system"
   homepage "https://www.postgresql.org/"
   url "https://ftp.postgresql.org/pub/source/v12.1/postgresql-12.1.tar.bz2"
